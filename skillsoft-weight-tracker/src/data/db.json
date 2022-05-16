@@ -1,0 +1,24 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "username": "Alex",
+      "password": "1234"
+    },
+    {
+      "id": "2",
+      "username": "Brad",
+      "password": "1234"
+    },
+    {
+      "id": "3",
+      "username": "Candice",
+      "password": "1234"
+    },
+    {
+      "username": "Bob",
+      "password": "1234",
+      "id": "brq4CTc"
+    }
+  ]
+}
